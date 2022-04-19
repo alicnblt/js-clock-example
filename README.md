@@ -2,4 +2,4 @@
 ---
 ![Image](/assests/kodluyoruz-js-clock.jpg)
 ---
-### Bu repo Google'ın güncel ana sayfasının tasarımını içermektedir.
+### Bu repo Kodluyoruz'un ilk js ödevidir.
